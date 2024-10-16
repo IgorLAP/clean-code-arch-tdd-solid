@@ -1,0 +1,21 @@
+{
+  "name": "clean-code-clean-arch-tdd",
+  "version": "1.0.0",
+  "main": "example2_after.js",
+  "scripts": {
+    "test": "tsc && jest ./dist --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "jest": "^29.7.0",
+    "sinon": "^19.0.2",
+    "typescript": "^5.6.3"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.13",
+    "@types/sinon": "^17.0.3"
+  }
+}
